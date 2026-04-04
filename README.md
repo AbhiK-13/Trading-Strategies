@@ -1,5 +1,7 @@
 # Algorithmic-Trading: 
 
+The "Algorithmic Trading" repository delves into the basics of algorithmic trading, slowly becoming more advanced with each script version. I start off with basic EDA of stocks using yfinance in Python, and transition slowly to using techniques like Bollinger bands and using a Markov regime-switching framework to enhance the value of my simulated portfolio. 
+
 ## Version 1: 
 
 This script follows the DataCamp tutorial on visualising stock returns as time series data using the AlphaVantage API. It covers some of the most common financial analyses, like moving windows and volatility calcualtion using the Python pandas package. This script also develops a simple momentum strategy, backtests it, and optimises it to aid its performance in the future. 
