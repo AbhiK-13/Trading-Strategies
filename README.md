@@ -13,7 +13,7 @@ This script builds on the earlier version, but still following the DataCamp tuto
 
 This script also develops a simple momentum strategy, backtests it, and optimises it to aid its performance in the future. In particular, it examines common defence stocks and attempts to build a moving-average strategy for both a single stock and a portfolio of the top 10 defence stocks. 
 
-**Trading Algorithm Script:** 
+## Version 3: 
 
 This script builds on Version 2, delving into other trading strategies, such as using Bollinger Bands for a portfolio of the top 10 defence stocks. Once again, I backtest the different strategies and evaluate them using metrics like Maximum Drawdown.  
 
