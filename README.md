@@ -1,4 +1,4 @@
-# Algorithmic-Trading: 
+# Trading-Strategies: 
 
 The "Algorithmic Trading" repository delves into the basics of algorithmic trading, slowly becoming more advanced with each script version. I start off with basic EDA of stocks using yfinance in Python, and transition slowly to using techniques like Bollinger bands and using a Markov regime-switching framework to enhance the value of my simulated portfolio. 
 
