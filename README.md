@@ -21,6 +21,21 @@ This script builds on Version 2, delving into other trading strategies, such as 
 
 *DISCLAIMER: AI tools such as Claude and ChatGPT were used to fix coding errors, and suggest improvements to optimise the efficiency of the script.* 
 
+## Version 4: 
+
+This script builds on Version 3, diving into the use of Markov regime-switching frameworks across multiple tickers. I more intensely apply the use of functions rather than blunt commands to make the general workflow more flexible. The general workflow is as follows: 
+
+1) Downloading relevant data 
+2) Plotting returns 
+3) Undertaking stationarity tests 
+4) Finding the best AR order for each ticker
+5) Fitting a two-regime Markov model 
+6) Undertaking diagnostic checks
+7) Interpreting results
+8) Plotting results through volatility comparisons, transition matrices, and regime scatter/probabilities 
+
+Note that this work is based off of work by the author on the linked page (https://medium.com/@cemalozturk/a-markov-regime-switching-approach-to-characterizing-financial-time-series-a5226298f8e1), where I adapt their work towards a specific portfolio of multiple tickers at once. 
 
 
- 
+*DISCLAIMER: AI tools such as Claude and ChatGPT were used to fix coding errors, and suggest improvements to optimise the efficiency of the script.* 
+
